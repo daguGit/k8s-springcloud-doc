@@ -29,7 +29,7 @@
 ### 2.3、其他
 
 - rabbitMq
-
+[参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(3)-rabbitmq%E5%AD%A6%E4%B9%A0 "rabbitMq学习使用")
 
 
 ## 三、微服务部署使用
