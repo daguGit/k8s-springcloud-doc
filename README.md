@@ -36,7 +36,12 @@
 
 ### 3.1 、Docker学习使用
 
+[参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(1)-docker%E5%AD%A6%E4%B9%A0 "docker学习使用")
+
+ 
+
 ### 3.2 、k8s学习使用
+[参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(2)-k8s%E5%AD%A6%E4%B9%A0 "k8s学习使用")
 
 ## 四、微服务脚手架学习
 
