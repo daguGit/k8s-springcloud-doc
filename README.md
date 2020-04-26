@@ -44,7 +44,13 @@
 ### 3.2 、k8s学习使用
 [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(2)-k8s%E5%AD%A6%E4%B9%A0 "k8s学习使用")
 
+### 3.3 、nginx使用
+[参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(4)-nginx%E5%AD%A6%E4%B9%A0 "nginx学习使用")
+
+
 ## 四、微服务脚手架学习
+[参考 zhoutao github](https://github.com/zhoutaoo/SpringCloud"k8s学习使用")
+
 
 ### 4.1、部署
 
