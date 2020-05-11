@@ -10,7 +10,7 @@
 之后测试将springboot-admin注册到nacos，测试admin的功能：common-admin模块   
 之后测试mq的生产与消费并接入zipkin：service-provider与service-consumer模块  
 简单测试es使用，见3.4  
-测试redis的相关功能，解决换成常见问题与缓存击穿  
+测试redis的相关功能，解决缓存常见问题与缓存击穿  
 
 
 
@@ -93,7 +93,10 @@
 ### 4.1、部署
 
 ### 4.2、解析
-
+ - authorizaiton模块 
+    - [关于author认证问题参考](https://blog.csdn.net/ThinkWon/article/details/103761687)
+    - [关于author认证问题参考2](https://segmentfault.com/a/1190000021081318)
+    - [关于author认证问题参考3](https://juejin.im/post/5e71c727518825490b649f46)
 ## 五、关于本仓库下k8s-springcloud工程
 - [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(99)-k8s_springcloud%E5%AD%A6%E4%B9%A0 "k8s_springcloud学习使用")
 
