@@ -46,12 +46,12 @@
 ### 2.3、其他
 
 - rabbitMq
-    - [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(3)-rabbitmq%E5%AD%A6%E4%B9%A0 "rabbitMq学习使用")
+    - [参考本页wiki](https://github.com/daguGit/k8s-springcloud-doc/wikis/k8s-springcloud(3)-rabbitmq%E5%AD%A6%E4%B9%A0 "rabbitMq学习使用")
 ### 2.4、拓展
 - zookeeper与eureka对比区别
     - 百度搜索"zk与eureka"即可，例如 [https://blog.csdn.net/gaowenhui2008/article/details/70237908](https://blog.csdn.net/gaowenhui2008/article/details/70237908)
 - kafka与mq区别、kafka使用
-    - kafka使用 [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(5)-kafka%E5%AD%A6%E4%B9%A0 "docker学习使用")
+    - kafka使用 [参考本页wiki](https://github.com/daguGit/k8s-springcloud-doc/wikis/k8s-springcloud(5)-kafka%E5%AD%A6%E4%B9%A0 "docker学习使用")
     - 与mq区别 [参考他人博客](https://blog.csdn.net/yunfeng482/article/details/72856762)
 
 
@@ -59,15 +59,15 @@
 
 ### 3.1 、Docker学习使用
 
-- [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(1)-docker%E5%AD%A6%E4%B9%A0 "docker学习使用")
+- [参考本页wiki](https://github.com/daguGit/k8s-springcloud-doc/wikis/k8s-springcloud(1)-docker%E5%AD%A6%E4%B9%A0 "docker学习使用")
 
  
 
 ### 3.2 、k8s学习使用
-- [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(2)-k8s%E5%AD%A6%E4%B9%A0 "k8s学习使用")
+- [参考本页wiki](https://github.com/daguGit/k8s-springcloud-doc/wikis/k8s-springcloud(2)-k8s%E5%AD%A6%E4%B9%A0 "k8s学习使用")
 
 ### 3.3 、nginx使用
-- [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(4)-nginx%E5%AD%A6%E4%B9%A0 "nginx学习使用")
+- [参考本页wiki](https://github.com/daguGit/k8s-springcloud-doc/wikis/k8s-springcloud(4)-nginx%E5%AD%A6%E4%B9%A0 "nginx学习使用")
 
 ### 3.4 、关于日志收集elk组件使用
 - [ELK搭建参考网址](https://jicki.me/docker/kubernetes/2019/07/02/kuebrnetes-NEW-ELK/)
@@ -98,7 +98,7 @@
     - [关于author认证问题参考2](https://segmentfault.com/a/1190000021081318)
     - [关于author认证问题参考3](https://juejin.im/post/5e71c727518825490b649f46)
 ## 五、关于本仓库下k8s-springcloud工程
-- [参考本页wiki](http://192.168.168.163/guyingzhi/k8s-springcloud-doc/wikis/k8s-springcloud(99)-k8s_springcloud%E5%AD%A6%E4%B9%A0 "k8s_springcloud学习使用")
+- [参考本页wiki](https://github.com/daguGit/k8s-springcloud-doc/wikis/k8s-springcloud(99)-k8s_springcloud%E5%AD%A6%E4%B9%A0 "k8s_springcloud学习使用")
 
 
 
